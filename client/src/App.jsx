@@ -6,7 +6,7 @@ function App() {
  
   return (
     <>
-      <h1>Welcome to our website</h1>
+      <h1>Mentor and Learner Website</h1>
     </>
   )
 }
